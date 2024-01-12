@@ -8,6 +8,8 @@ You are free to use use this software under the terms of the [CC BY-NC 4.0 Licen
 
 # Setup
 
+This section only describes how to get `example.py` running. If you want to use the API in your own project, you can simply copy the `eurostat_api` folder into your project directory.
+
 ## Linux
 
 1. Clone this repository
@@ -32,7 +34,7 @@ source .venv/bin/activate
 
 5. Install the requirements
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 6. Test if `example.py` works
