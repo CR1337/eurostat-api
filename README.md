@@ -39,7 +39,7 @@ pip3 install -r requirements.txt
 
 6. Test if `example.py` works
 ```bash
-python example.py
+python3 example.py
 ```
 
 ## Windows (not tested)
