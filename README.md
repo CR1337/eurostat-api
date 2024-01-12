@@ -8,7 +8,7 @@ You are free to use use this software under the terms of the [CC BY-NC 4.0 Licen
 
 # Setup
 
-This section only describes how to get `example.py` running. If you want to use the API in your own project, you can simply copy the `eurostat_api` folder into your project directory and install the dependencies from `requirements.txt` into your environment. Make sure to also copy the [LICENSE](LICENSE) and [CITATION.cff](CITATION.cff) files.
+This section only describes how to get `example.py` running. If you want to use the API in your own project, you can simply copy the `eurostat_api` folder into your project directory and install the dependencies from [requirements.txt](requirements.txt) into your environment. Make sure to also copy the [LICENSE](LICENSE) and [CITATION.cff](CITATION.cff) files.
 
 ## Linux
 
