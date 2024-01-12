@@ -5,7 +5,5 @@ authors:
     given-names: Christian Johannes
 title: "eurostat-api"
 version: 1.0.0
-identifiers:
-  - type: url
-    value: https://github.com/CR1337/eurostat-api
+url: https://github.com/CR1337/eurostat-api
 date-released: 2024-01-12
