@@ -40,7 +40,7 @@ pip install -r requirements.txt
 python example.py
 ```
 
-## Windows
+## Windows (not tested)
 
 1. Clone this repository
 ```bash
