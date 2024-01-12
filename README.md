@@ -2,7 +2,9 @@
 
 A python API to make simple Eurostat database requests.
 
-If you use this software, please cite it using the button in the right column of the repository's main page.
+If you use this software, please cite it using the button in the right column of the repository's main page. Thank you! (See also the [CITATION.cff](CITATION.cff) file.)
+
+You are free to use use this software under the terms of the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/). (See also the [LICENSE](LICENSE) file.)
 
 # Setup
 
