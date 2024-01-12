@@ -2,6 +2,8 @@
 
 A python API to make simple Eurostat database requests.
 
+If you use this software, please cite it using the button in the right column of the repository's main page.
+
 # Setup
 
 ## Linux
